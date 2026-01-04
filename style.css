@@ -1,0 +1,14 @@
+body{
+  background:#020617;
+  color:white;
+  font-family:Arial;
+  min-height:200vh;
+  text-align:center;
+}
+img{
+  display:block;
+  margin:40px auto;
+  width:400px;
+  height:250px;
+  background:#1e293b;
+}
